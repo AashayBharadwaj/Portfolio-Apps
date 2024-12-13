@@ -28,7 +28,7 @@ if sidebar_option == 'Track Stock Performance':
     st.sidebar.header('Track Stock Performance')
 
     # Call the function to render layout with image
-    render_layout_with_image()
+    # render_layout_with_image()
 
 # Call the cached function to render header and text
     render_header_and_text()
