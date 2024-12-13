@@ -32,7 +32,7 @@ def render_layout_with_image():
 
     # Place the image in the center column
     with col2:
-        st.image('stocks_charting/logos/test.svg', width=300)
+        st.image('', width=300)
         
         
 # Call the function to render layout with image
