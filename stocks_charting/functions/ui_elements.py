@@ -32,7 +32,7 @@ def render_layout_with_image():
 
     # Place the image in the center column
     with col2:
-        st.image('', width=300)
+        st.image('stocks_charting/logos/test.svg', width=300)
         
         
 # Call the function to render layout with image
@@ -42,7 +42,7 @@ def render_portfolio_layout_with_image():
 
     # Place the image in the center column
     with col2:
-        st.image('logos/portfolio_image.svg', width=300)
+        st.image('stocks_charting/logos/portfolio_image.svg', width=300)
     
 @st.cache_data
 # Call the cached function to render header and text
