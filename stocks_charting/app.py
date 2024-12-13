@@ -31,7 +31,7 @@ if sidebar_option == 'Track Stock Performance':
     # render_layout_with_image()
 
 # Call the cached function to render header and text
-    render_header_and_text()
+    # render_header_and_text()
 
     # User inputs with default values
     st.sidebar.header('Select your first stock')
